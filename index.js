@@ -104,7 +104,7 @@ client.connect(err => {
 
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('this is very smooth app')
 })
 
 app.listen(process.env.PORT ||port, () => {
