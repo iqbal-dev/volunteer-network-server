@@ -8,7 +8,7 @@ require('dotenv').config();
 const MongoClient = require('mongodb').MongoClient;
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@cluster0.j1hzz.mongodb.net/${process.env.DB_NAME}?retryWrites=true&w=majority`;
 
-const port = 5000;
+const port = 4500;
 
 console.log(process.env.DB_PASS,process.env.DB_NAME)
 
