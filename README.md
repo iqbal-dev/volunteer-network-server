@@ -20,4 +20,4 @@ A single page volunteer nwtwork app where people are able to select volunteer wo
 - MongoDB
 - Firebase Athuentication
   
-  [Back-end repository](https://github.com/iqbal-dev/volunteer-network-client) 
+  [Font-end repository](https://github.com/iqbal-dev/volunteer-network-client) 
