@@ -1,5 +1,5 @@
 # volunteer-network-server
-A single page volunteer nwtwork app where people are able to select volunteer work. And add work to their dashboard.
+A single page volunteer network app where people are able to select volunteer work. And add work to their dashboard.
 
 
 [Live Website](https://priceless-poincare-f1f1b9.netlify.app/) 
